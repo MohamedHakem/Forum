@@ -1,0 +1,135 @@
+p {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+a {
+	color: #555;
+	text-decoration: none;
+}
+body {
+    direction: rtl;
+    font-family: Tahoma, sans-serif;
+    font-size: 18px;
+    background: #fff;
+}
+
+}
+#Kamo {
+    width:88%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    border: 1px dotted #666666;
+}
+.header {
+    background-color: #005599;
+	text-align: center;
+    padding: 39px;
+    color: #fff;
+}
+.navbar { height: 38.5px; background-color: #9933ff; }
+
+
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar ul li {
+    float: right;
+}
+.navbar ul li a{
+    display: block;
+    padding: 8px;
+    background-color: #9933ff;
+    color: #fff;
+    text-decoration: none;
+}
+.navbar ul li a:hover {
+    background-color: #fff;
+    color: #000;
+}
+.rightblock {
+	float:right;
+	margin-left : 5px;
+    width: 200px;
+	border-left: 1px dotted #ccc;
+}
+.leftblock {
+	float:left;
+	margin-right : 5px;
+    width: 200px;
+	border-right: 1px dotted #ccc;
+}	
+.centerblock {
+	width: auto;
+	margin-left: 210px;
+	margin-right: 210px;
+}
+.headmenu {
+	background: #005599;
+	color: #fff;
+	font-weight: bold;
+   text-align: center;
+   padding: 5px;
+   margin: 9px 5px 0px 5px;
+}   
+.headmenu2 {
+	background: #9999ff;
+	color: #fff;
+	font-weight: bold;
+   text-align: center;
+   padding: 5px;
+   margin: 9px 5px 0px 5px;
+}   
+.bodymenu {
+	border: 1px solid #ccc;
+	padding: 5px;
+	margin: 0px 5px 9px 5px; 
+	
+}
+.bodymenu a {
+	
+	border: 0px dotted #f1f1f1;
+	padding: 0px 0px 0px 0px; 
+}
+.bodymenu a:hover{
+	background: #F1F1F1;
+	color: #000;
+	border-top: 0px solid #fff;
+}
+
+.bodymenulink {
+	border: 1px solid #ccc;
+	padding: 5px;
+	margin: 0px 5px 9px 5px; 
+	
+} 	
+.bodymenulink ul {
+	list-style: none;
+	border: 0px solid #ccc;
+	padding: 0px;
+	margin: 0px; 
+}
+.bodymenulink ul li a {
+	display: block;
+	border-bottom: 1px dotted #f1f1f1;
+	padding: 3px 2px 5px 2px; 
+}
+.bodymenulink ul li a:hover {
+	background: #F1F1F1;
+	color: #000;
+	border-bottom: 10px solid #fff;
+}
+.clear {
+	clear: both;
+}
+.footer {
+    background-color: #cccccc;
+    text-align: center;
+    font-size: 15px;
+    color: #000;
+    padding: 6px;
+}
